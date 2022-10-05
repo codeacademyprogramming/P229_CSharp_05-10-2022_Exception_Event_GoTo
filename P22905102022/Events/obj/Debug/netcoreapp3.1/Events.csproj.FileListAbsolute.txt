@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22905102022\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
